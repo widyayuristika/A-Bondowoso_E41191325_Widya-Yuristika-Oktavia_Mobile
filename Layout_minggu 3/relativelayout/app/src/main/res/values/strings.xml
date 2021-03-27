@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">relative layout</string>
+    <string name="done">done</string>
+    <string name="reminder">reminder</string>
+    <string-array name="Date">
+        <item>Wed,June 27,2012</item>
+    </string-array>
+    <string-array name="Time">
+        <item>8:00 am</item>
+    </string-array>
+</resources>
