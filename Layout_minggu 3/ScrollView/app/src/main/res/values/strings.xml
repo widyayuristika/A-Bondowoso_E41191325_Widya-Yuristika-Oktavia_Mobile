@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="scroll_view">scroll_view</string>
+    <string name="welcome_to_scroll_view">welcome_to_scroll_view</string>
+    <string name="button_one">button_one</string>
+    <string name="button_two">button_two</string>
+    <string name="button_three">button_three</string>
+    <string name="button_four">button_four</string>
+    <string name="button_five">button_five</string>
+    <string name="button_six">button_six</string>
+    <string name="button_seven">button_seven</string>
+    <string name="button_eight">button_eight</string>
+    <string name="button_nine">button_nine</string>
+</resources>

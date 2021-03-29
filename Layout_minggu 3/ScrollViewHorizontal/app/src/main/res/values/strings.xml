@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scroll View Horizontal</string>
+    <string name="tombol1">Tombol1</string>
+    <string name="tombol2">Tombol2</string>
+    <string name="tombol3">Tombol3</string>
+    <string name="tombol4">Tombol4</string>
+    <string name="tombol5">Tombol5</string>
+    <string name="tombol6">Tombol6</string>
+    <string name="tombol7">Tombol7</string>
+    <string name="tombol8">Tombol8</string>
+    <string name="tombol9">Tombol9</string>
+</resources>
